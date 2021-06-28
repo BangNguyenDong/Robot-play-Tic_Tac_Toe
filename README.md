@@ -49,5 +49,4 @@ Nevertheless, I haven't had any misclassifications errors while playing
 tic-tac-toe. Needless to say that these problems will be addressed in the
 future just to make sure this project runs seamlessly.
 
-## Resources
-I used [CWoebker's alphabeta script](https://cwoebker.com/posts/tic-tac-toe) and added some documentation to it.
+Link youtube: https://youtu.be/bDi3zxxtklM
